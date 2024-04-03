@@ -1,0 +1,108 @@
+body {
+    background-color: #e9f5ff; /* Light blue background color */
+  }
+  
+  .jumbotron {
+    background-size: cover;
+    color: #f0e9e9;
+    text-align: center;
+    padding: 100px 0;
+    margin-bottom: 0;
+  }
+  
+  .navbar {
+    background-color: #007bff; /* Blue navbar color */
+  }
+  
+  .navbar-brand {
+    color: #fff !important;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff !important;
+    font-size: 18px;
+  }
+  
+  .section {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .section-heading {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .section-content {
+    font-size: 20px;
+  }
+  
+  .social-links {
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    color: #007bff;
+    font-size: 24px;
+    margin: 0 10px;
+  }
+
+  /* Social Links Styling */
+.social-links {
+  text-align: center;
+}
+
+.social-links img {
+  width: 25px; 
+  height: auto;
+  margin: 0 5px; 
+}
+  
+  .footer {
+    background-color: #0d0e0e;
+    padding: 10px;
+  }
+  
+  .card {
+    margin-bottom: 25px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .card-text {
+    font-size: 18px;
+  }
+  
+  .list-group-item {
+    font-size: 16px;
+  }
+  
+  .btn {
+    font-size: 18px;
+  }
+  
+  /* Background images for sections */
+  .jumbotron {
+    background-image: url('https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disneyland/attractions/disneyland/sleeping-beauty-castle-walkthrough/sleeping-beauty-castle-exterior-16x9.jpg?1699632197159/1500x500'); /* Header background image */
+  }
+  
+  /* Additional images */
+  .attraction-image {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .lazy-river-image {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .kiddie-pool-image {
+    background-size: cover;
+    background-position: center;
+  }
+  
